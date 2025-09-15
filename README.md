@@ -39,7 +39,7 @@ A 12-month journey to become a professional **AI/ML Engineer** and land a job.
 ## 📊 Skills Progression Tracker (4 Months Each Stage)
 
 ### Level 2 → Core AI/ML Skills
-- [ ] Python, NumPy, Pandas, Matplotlib
+- [ ] Python, NumPy, Pandas, Pytorch
 - [ ] Git, Linux, Jupyter workflows
 - [ ] ML basics: regression, classification, clustering  
 - [ ] Kaggle starter projects  
